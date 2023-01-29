@@ -1,0 +1,94 @@
+body {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-size: 1rem;
+    z-index: 0;
+    margin: 0px;
+    }
+
+    h1 {
+    text-align: center;
+    font-size: 2.75rem;
+    text-transform: uppercase;
+    margin: 20px 0;
+    font-weight: 200;
+    clear: both;
+    }
+    h1 span {
+    font-weight: 800;
+    border-radius: 50%;
+    margin: 0;
+    }
+
+    h2 {
+        text-align: center;
+        color: #27B4B2;
+    }
+
+    h3 {
+        text-align: center;
+    }
+
+    h4 {
+        text-align: center;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    .parentOne {
+        text-align: center;
+    }
+    .parentOne > ul {
+        display: inline-block;
+        text-align: left;
+    }
+
+    .nikeProjectOne {
+        text-align: center;
+    }
+    .nikeProjectOne > ul {
+        display: inline-block;
+        text-align: left;
+    }
+
+    .nikeProjectTwo {
+        text-align: center;
+    }
+    .nikeProjectTwo > ul {
+        display: inline-block;
+        text-align: left;
+    }
+
+    .businessCourse {
+        text-align: center;
+    }
+    .businessCourse > ul {
+        display: inline-block;
+        text-align: left;
+    }
+
+    .economicCourse {
+        text-align: center;
+    }
+    .economicCourse > ul {
+        display: inline-block;
+        text-align: left;
+    }
+
+
+    #project {
+        text-align: center;
+    }
+
+    #githubLink {
+        text-align: center;
+    }
+
+    a {
+    text-decoration: none;
+    color: #27B4B2;
+    font-weight: 600;
+    }
+    
